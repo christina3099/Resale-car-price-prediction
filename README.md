@@ -4,6 +4,7 @@
 
    This project focuses on building a machine learning model to predict the resale value of used cars based on various features such 
     as mileage, age, power, seating capacity, transmission, fuel type, and brand.
+    [Project Link](https://github.com/christina3099/Resale-car-price-prediction/blob/main/Resale_Car_Value_Predictor.ipynb)
 
 Through this end-to-end pipeline, I demonstrated skills in:
 
