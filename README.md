@@ -4,11 +4,16 @@
 
    This project focuses on building a machine learning model to predict the resale value of used cars based on various features such 
     as mileage, age, power, seating capacity, transmission, fuel type, and brand.
-    [GitHub](https://github.com/christina3099/Resale-car-price-prediction/blob/main/Resale_Car_Value_Predictor.ipynb) ,
-    [Kaggle Writeup](https://www.kaggle.com/writeups/christinastalin/car-resale-price-prediction-using-machine-learning)
+
+## Links
+
+   [GitHub](https://github.com/christina3099/Resale-car-price-prediction/blob/main/Resale_Car_Value_Predictor.ipynb) 
+   
+   [Kaggle Writeup](https://www.kaggle.com/writeups/christinastalin/car-resale-price-prediction-using-machine-learning)
 
 
-## 🎯 Background
+
+##  Background
 
 The resale car market is a dynamic space where multiple factors — such as brand reputation, mileage efficiency, ownership history, and fuel type — influence the perceived value of a car.
 
@@ -38,7 +43,7 @@ By combining data analysis and machine learning, this project delivers both inte
 
   * **Visualization & Communication:** Presenting results in intuitive charts and tables for clear storytelling.
 
-## 🔮 Future Work
+##  Future Work
 
 * Hyperparameter tuning with GridSearchCV
 
